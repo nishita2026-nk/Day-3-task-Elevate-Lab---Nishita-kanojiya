@@ -58,7 +58,7 @@ Task-3-Linear-Regression/
 └── .gitignore
 ```
 
-## Run in VS Code
+## VS code commands
 
 Create virtual environment:
 
@@ -92,14 +92,3 @@ Select the virtual-environment Python kernel and run all cells from top to botto
 - MSE — Mean Squared Error
 - RMSE — Root Mean Squared Error
 - R² — Coefficient of Determination
-
-## Interview Questions
-
-1. What assumptions does linear regression make?
-2. How do you interpret the coefficients?
-3. What is R² score and its significance?
-4. When would you prefer MSE over MAE?
-5. How do you detect multicollinearity?
-6. What is the difference between simple and multiple regression?
-7. Can linear regression be used for classification?
-8. What happens if you violate regression assumptions?
